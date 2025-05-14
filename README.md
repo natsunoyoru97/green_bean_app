@@ -1,6 +1,6 @@
 # green_bean_vscode
 
-A new Flutter project.
+A coffee bean batch & stock manager for my own use.
 
 ## Getting Started
 
